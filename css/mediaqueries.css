@@ -1,9 +1,6 @@
 @media screen and (max-width:600px) {
    
-    body{
-        overflow: scroll;
-    }
-
+    
     section{
         width: 100%;
     }
